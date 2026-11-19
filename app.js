@@ -1,6 +1,6 @@
 /* ================= KONFIGURASI SUPABASE (UBAH 2 BARIS INI SAJA) ================= */
-const SUPABASE_URL = 'https://xxxxx.supabase.co';       // <-- GANTI
-const SUPABASE_ANON_KEY = 'eyJhbGciOi...';              // <-- GANTI
+const SUPABASE_URL = 'https://twjqkmqnivpbyanpnjwj.supabase.co';       // <-- GANTI
+const SUPABASE_ANON_KEY = 'sb_publishable_HsKB-NaLUcdVxKTiGPVZbw_e7ji0TSd';              // <-- GANTI
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 const DEFAULT_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyyfDAwqt9AO_q4c1uGvwmCzBJ4EyL5l75xH_wJRxkLMCfDSYpBWYK4gYO8lDG633NY/exec';
